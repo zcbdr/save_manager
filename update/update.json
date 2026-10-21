@@ -1,6 +1,6 @@
 {
+  "sha256": "9f42b1487c8235be7070789700e91b0c9019bcdf47bacb96854bec2ff8396292",
+  "notes": "1. Regular updates and improvements",
   "version": "1.6.2",
-  "notes": "1. 修复游戏列表和备份记录翻页后保留旧滚动位置的问题，新页面会自动回到顶部。[Issue #24](https://github.com/Kiowx/save_manager/issues/24)\n2. 版本更新至 1.6.2。\n3. Fix the Games and Backups lists retaining the previous scroll position after pagination so every new page starts at the top. [Issue #24](https://github.com/Kiowx/save_manager/issues/24)\n4. Bump the version to 1.6.2.",
-  "url": "https://github.com/Kiowx/save_manager/releases/download/v1.6.2/SteamSaveManager.exe",
-  "sha256": "43fd3cef52f59681b3647db44d6bc822b4c69f245c23b472f079bff4a73888c5"
+  "url": "https://github.com/zcbdr/save_manager/releases/download/v1.6.2/SteamSaveManager.exe"
 }
